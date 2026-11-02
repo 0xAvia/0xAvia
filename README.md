@@ -21,5 +21,4 @@ hey, i'm 0xAvia. i build discord and telegram bots, websites, panels and whateve
 <div align="center">
   <sub><code>&nbsp;.:-=+*#%@&nbsp;</code></sub>
   <br>
-  <sub>every frame up there is text. no gifs, no js, just svg.</sub>
 </div>
